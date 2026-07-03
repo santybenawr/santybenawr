@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @santybenawr
-- 🌱 I’m currently learning how to program
-
-<!---
-santybenawr/santybenawr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ⓘ 𝙏𝙝𝙞𝙨 𝙪𝙨𝙚𝙧 𝙞𝙨 𝙨𝙪𝙨𝙥𝙚𝙘𝙩𝙚𝙙 𝙤𝙛 𝙗𝙚𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙤𝙛 𝙖 𝙘𝙮𝙗𝙚𝙧𝙩𝙚𝙧𝙧𝙤𝙧𝙞𝙨𝙩 𝙜𝙧𝙤𝙪𝙥.
